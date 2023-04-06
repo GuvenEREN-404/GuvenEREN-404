@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frontend Developer Güven Eren</h1>
+<h1 align="center">Hi 👋, I'm Frontend Developer</h1>
 <h3 align="center">A passionate frontend developer from Turkey/Edirne</h3>
 
 - 📄 Know about my experiences [guveneren.com](https://www.guveneren.com)
